@@ -34,5 +34,5 @@ import { DropdownDirective } from './Shared/dropdown.directive';
   ],
   providers: [],
   bootstrap: [AppComponent]
-})
+}) 
 export class AppModule { }
